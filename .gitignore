@@ -1,0 +1,7 @@
+.bash_history
+.bash_logout
+.profile
+.gitconfig
+.config/
+.npm
+tmp/
